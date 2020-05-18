@@ -1,0 +1,17 @@
+13
+
+Arad             3    Sibiu        Timisoara     Zerind
+Bucharest        4    Fagaras      Giugriu       Pitesti              Urziceni
+Craiova          3    Drobeta      Pitesti       Rimnicu-Vilcea
+Drobeta          2    Craiova      Mehadia
+Fagaras          2    Bucharest    Sibiu
+Lugoj            2    Mehadia      Timisoara
+Mehadia          2    Drobeta      Lugoj
+Oradea           2    Sibiu        Zerind
+Pitesti          3    Bucharest    Craiova       Rimnicu-Vilcea
+Rimnicu-Vilcea   3    Craiova      Pitesti       Sibiu
+Sibiu            4    Arad         Fagaras       Oradea              Rimnicu-Vilcea
+Timisoara        2    Arad         Lugoj
+Zerind           2    Arad         Oradea
+
+Arad             Bucharest
